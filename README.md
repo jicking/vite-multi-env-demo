@@ -3,6 +3,8 @@
 
 # Svelte + Vite + Multi Env setup
 
+https://vitejs.dev/guide/env-and-mode.html#modes
+
 .env                # loaded in all cases
 .env.local          # loaded in all cases, ignored by git
 .env.[mode]         # only loaded in specified mode
